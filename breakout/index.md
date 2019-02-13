@@ -36,7 +36,7 @@ framework that can be used to build many games.
 ### Video
 
 <video width="640" height="480" controls>
-  <source src="Breakout.mp4" type="Breakout/mp4">
+  <source src="./Breakout.mp4" type="./Breakout/mp4">
 </video>
 
 
