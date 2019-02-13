@@ -17,9 +17,16 @@ Created by Fan Ling
 [Link towards download](https://troyprag816gmailcom.itch.io/sdl-breakout)
 
 ## Post Mortem 
-Since this is my time using SDL for a project, I learned a lot about the software structure of a game engine. The main and the most important takeaway is decoupling is essential. Decouple game logic from game engine, decouple manager from manager, decouple render from update. 
+Since this is my time using SDL for a project, I learned a lot about 
+the software structure of a game engine. The main and the most important 
+takeaway is decoupling is essential. Decouple game logic from game engine, 
+decouple manager from manager, decouple render from update. 
 
-It may be very tempting to mash things together for easier implementation,which I did a lot in this project due to time constraint. But it will make your code very hard to be reused by your future projects, let alone let others to use your code. The purpose of writing a game engine is to lay the software framework that can be used to build many games.
+It may be very tempting to mash things together for easier implementation,
+which I did a lot in this project due to time constraint. But it will make 
+your code very hard to be reused by your future projects, let alone let others 
+to use your code. The purpose of writing a game engine is to lay the software 
+framework that can be used to build many games.
 
 ### ScreenShots
 
