@@ -10,7 +10,9 @@ A implementation of the classic game Breakout implemented using C++ and SDL2 Lib
 ## Team:
 Created by Fan Ling
 
-## Links and documentations
+## Links and Documentations
+[Link towards documentation](https://flynn2016.github.io/breakout_doc)
+[Link towards download](https://troyprag816gmailcom.itch.io/sdl-breakout)
 
 ## Post Mortem 
 
