@@ -33,12 +33,20 @@ your code very hard to be reused by your future projects, let alone let others
 to use your code. The purpose of writing a game engine is to lay the software 
 framework that can be used to build many games.
 
+###Video
+<video width="640" height="480" controls>
+  <source src="breakout.mp4" type="breakout/mp4">
+  <source src="breakout.ogg" type="breakout/ogg">
+Your browser does not support the video tag.
+</video>
+
+
 ### ScreenShots
 
-![ScreenShot_1](./1.png)
+![ScreenShot_1](./Image/1.png)
 
-![ScreenShot_2](./2.png)
+![ScreenShot_2](./Image/2.png)
 
-![ScreenShot_3](./3.png)
+![ScreenShot_3](./Image/3.png)
 
 
