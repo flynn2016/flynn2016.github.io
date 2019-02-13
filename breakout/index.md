@@ -16,13 +16,18 @@ Created by Fan Ling
 
 [Link towards download](https://troyprag816gmailcom.itch.io/sdl-breakout)
 
+#### Install Instruction:
+Platform: MacOS
+
+Download through the link provided on the website. Make sure you have SDL2, SDL2_image, SDL2_mixer and  SDL2_ttf in your library. Run main in terminal to open the game.
+
 ## Post Mortem 
 Since this is my time using SDL for a project, I learned a lot about 
 the software structure of a game engine. The main and the most important 
 takeaway is decoupling is essential. Decouple game logic from game engine, 
 decouple manager from manager, decouple render from update. 
 
-It may be very tempting to mash things together for easier implementation,
+It may be very tempting to mash things together for easier life on implementation,
 which I did a lot in this project due to time constraint. But it will make 
 your code very hard to be reused by your future projects, let alone let others 
 to use your code. The purpose of writing a game engine is to lay the software 
