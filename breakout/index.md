@@ -34,7 +34,7 @@ to use your code. The purpose of writing a game engine is to lay the software
 framework that can be used to build many games.
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_w32w-XguGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="300" src="https://www.youtube.com/embed/_w32w-XguGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### ScreenShots
