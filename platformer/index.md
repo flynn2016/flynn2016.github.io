@@ -30,10 +30,10 @@ Download through the link provided on the website. Make sure you have SDL2, SDL2
 
 ### ScreenShots
 
-![ScreenShot_1](./Image/1.png)
+![ScreenShot_1](./Image/image_1.png)
 
-![ScreenShot_2](./Image/2.png)
+![ScreenShot_2](./Image/image_2.png)
 
-![ScreenShot_3](./Image/3.png)
+![ScreenShot_3](./Image/image_3.png)
 
 
