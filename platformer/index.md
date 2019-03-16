@@ -16,7 +16,7 @@ Created by Fan Ling
 
 [Link towards download](https://troyprag816gmailcom.itch.io/sdl-breakout)
 
-#### Install Instruction:
+#### Install Instruction:  
 Platform: MacOS
 
 Download through the link provided on the website. Make sure you have SDL2, SDL2_image, SDL2_mixer and  SDL2_ttf in your library. Run main in terminal to open the game.
