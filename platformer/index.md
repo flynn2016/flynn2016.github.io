@@ -29,10 +29,11 @@ alpha blend to achieve transparent texture effect. But due to the time limit and
 
 Also one major bad decision made during the project is we chose a sprite sheet that is not transparent. And we realized it is a problem too late to overhaul our project. Two problems emerged from this decision. First, our sprite editor and tile editor are far from genetic like Unity or other game engine. Switching to another sprite sheet after already establishing most of the game takes a lot of rework. The second problem is sprites would overlay each other show the ugly background on top of each other. So next time we would be mindful to use a transparent background sprite sheet.
 
-##Special Feature
+## Special Feature:
+
 So our special feature is the animation of the key at the end . We wrote the whole package of Unity-like transform: position, rotation, scale, even the parent-children relationship. Just like in Unity you can use Animator to create animation based on the transform of the gameobjects. We created a little simple animation of key movement using our transform package. It can do more than just rotating a key, for example, it can let a programmer animate different character movement with separate body part using just code so they don’t have to rely on art people to finish drawing hundreds of frame of texture.  Unfortunately, due to time limit we can not show it in the game, but I believe the idea is there. 
 
-##Other Notes:
+## Other Notes:
 You can toggle the display of fps at the top of the GameManager.h file
 And also we did not forget about the background. Like we said in the post mortem, we realized the spritesheet should have a transparent background too late. Right below the fps toggle, you can see there is a background toggle. Set it to true, you can view the background with the hideous square sprite.
 
