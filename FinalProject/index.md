@@ -54,11 +54,11 @@ And also we did not forget about the background. Like we said in the post mortem
 
 ![ScreenShot_2](./Image/image_2.png)
 
-![ScreenShot_4](./Image/image_4.png)
+![ScreenShot_4](./Image/image_4.jpg)
 
-![ScreenShot_4](./Image/image_5.png)
+![ScreenShot_4](./Image/image_5.jpg)
 
-![ScreenShot_4](./Image/image_6.png)
+![ScreenShot_4](./Image/image_6.jpg)
 
 
 
