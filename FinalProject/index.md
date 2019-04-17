@@ -28,6 +28,8 @@ https://github.com/Spring19GameEngines/finalproject-pb/blob/master/SpiritEditor/
 #### README for tile editor
 https://github.com/Spring19GameEngines/finalproject-pb/blob/wendi/README_tile_editor.md
 
+## Diagram 
+![ScreenShot_1](./Image/image_diagram.png)
 
 ## Post Mortem 
 Our project has three parts: sprite editor, tilemap editor, and a game maker. Each section can work separately and the game itself was built upon them.
@@ -40,7 +42,6 @@ We divided the project into three main “chunks” and each chose one to work o
 
 ### Sprite Editor Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hgs5ZfBekn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ### ScreenShots
