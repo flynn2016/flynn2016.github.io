@@ -36,25 +36,16 @@ SDL Game Maker:
 So this is our plan B, our original intent was using QT creator to create a GUI to interact with SDL (plan A). We were working on our own part and everything was fine until we tried to combine our parts together. There some deployment error, and we spent more than 15 hours on solving this. No one can open other’s code in each other’s computer. We spent tons of time tried to figure it out, but eventually time ticked away and we decided to do Plan B a SDL version of our game maker with in game menu and editor.  I guess the biggest takeaway is making sure everything is working together every step of the way instead of trying to merge everything at last.
 We divided the project into three main “chunks” and each chose one to work on, with the intention to merge individual work all together at the end. Although we spent a lot of time trying all methods provided by QT’s website, online forums, and help from instructors, we still did not have any success merging everything together. Due to the difficulty we had and the limited time remaining, the project had to come in three parts: the sprite editor, tilemap editor, and game maker. We could have just sent source code files to each other and figure out how to combine into one project. But by the time when we started trying to merge everything, each of us already had a large amount of work done, and it was difficult to fit our different code structures together. As mentioned before, the lesson we learned throughout this process is that we should always think about how to merge work together at early stages of any project.
 
-
-Sprite Editor:
-Pros: 
-Well formatted GUI inputs
-With all the basic application functionalities (Open, new file, save, save as, etc. ...)
-Visualized Image to tell users that see what exactly they are doing.
-Cons:
-Cannot interacting with the terminal and SDL directly.
-Does not cut each sprite very precisely, and it might fail in some cases.
-
 ### SDL Gamemaker Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu8Gnf25rqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-### ScreenShots
+
 
 ### Sprite Editor Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hgs5ZfBekn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
+### ScreenShots
 ![ScreenShot_1](./Image/image_1.png)
 
 ![ScreenShot_2](./Image/image_2.png)
