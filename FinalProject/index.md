@@ -12,7 +12,7 @@ An implementation of a platformer game maker using C++, SDL2 Libraries, QT and Q
 Created by Fan Ling, Hao Tian, Wendi Zhang
 
 ## Documentations and Download
-[Link towards documentation](https://flynn2016.github.io/finalproject_doc)
+[Link towards documentation](https://flynn2016.github.io/FinalProject_doc)
 
 [Link towards download](https://github.com/Spring19GameEngines/finalproject-pb/tree/master)
 
