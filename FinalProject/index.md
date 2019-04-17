@@ -21,13 +21,23 @@ Platform: MacOS
 
 Download through the link provided on the website. Make sure you have SDL2, SDL2_image, SDL2_mixer and  SDL2_ttf in your library. Run main to open the game in terminal. 
 
+#### README for sprite editor
+https://github.com/Spring19GameEngines/finalproject-pb/blob/master/SpiritEditor/README.md 
+
+
 ## Post Mortem 
 
-In the second project, we built our game based on the framework setup in the first project. We introduced many new components like character physics
-2d collision, AI movement etc. Many things are improved, for example, game logics are more organized and are where they should be. We were going to use
-alpha blend to achieve transparent texture effect. But due to the time limit and effort, we gave up on that idea. Given more time, we would like to achieve the freedom to adjust the alpha value of any texture. 
+Our project has three parts: sprite editor, tilemap editor, and a game maker. Each section can work separately and the game itself was built upon them.
 
-Also one major bad decision made during the project is we chose a sprite sheet that is not transparent. And we realized it is a problem too late to overhaul our project. Two problems emerged from this decision. First, our sprite editor and tile editor are far from genetic like Unity or other game engine. Switching to another sprite sheet after already establishing most of the game takes a lot of rework. The second problem is sprites would overlay each other show the ugly background on top of each other. So next time we would be mindful to use a transparent background sprite sheet.
+Sprite Editor:
+Pros: 
+Well formatted GUI inputs
+With all the basic application functionalities (Open, new file, save, save as, etc. ...)
+Visualized Image to tell users that see what exactly they are doing.
+Cons:
+Cannot interacting with the terminal and SDL directly.
+Does not cut each sprite very precisely, and it might fail in some cases.
+
 
 ## Other Notes:
 You can toggle the display of fps at the top of the GameManager.h file
@@ -44,6 +54,12 @@ And also we did not forget about the background. Like we said in the post mortem
 
 ![ScreenShot_2](./Image/image_2.png)
 
-![ScreenShot_3](./Image/image_3.png)
+![ScreenShot_4](./Image/image_4.png)
+
+![ScreenShot_4](./Image/image_5.png)
+
+![ScreenShot_4](./Image/image_6.png)
+
+
 
 
