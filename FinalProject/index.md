@@ -30,6 +30,12 @@ https://github.com/Spring19GameEngines/finalproject-pb/blob/wendi/README_tile_ed
 
 ## Diagram 
 ![ScreenShot_1](./Image/image_diagram.png)
+## What we have
+A GUI for cutting sprite sheet and save to file.
+A GUI for editing maps
+A SDL gamemaker (like mario maker). You can edit map and AI agent in game and save to file.
+But we failed to connect three components together because some unresolved Qt deployment problem on Mac. GUI can write to file and SDL can read from the file. Only one step away from our original goal. So we resort to our plan B a in-game editor.
+
 
 ## Post Mortem 
 Our project has three parts: sprite editor, tilemap editor, and a game maker. Each section can work separately and the game itself was built upon them.
