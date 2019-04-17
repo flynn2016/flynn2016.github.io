@@ -21,12 +21,9 @@ Platform: MacOS
 
 Download through the link provided on the website. Make sure you have SDL2, SDL2_image, SDL2_mixer and  SDL2_ttf in your library. Run main to open the game in terminal. 
 
-#### README for SDL gamemaker
-https://github.com/Spring19GameEngines/finalproject-pb/blob/fan/Project/README.md
-#### README for sprite editor
-https://github.com/Spring19GameEngines/finalproject-pb/blob/master/SpiritEditor/README.md
-#### README for tile editor
-https://github.com/Spring19GameEngines/finalproject-pb/blob/wendi/README_tile_editor.md
+#### [README for SDL gamemaker](https://github.com/Spring19GameEngines/finalproject-pb/blob/fan/Project/README.md)
+#### [README for sprite editor](https://github.com/Spring19GameEngines/finalproject-pb/blob/master/SpiritEditor/README.md)
+#### [README for tile editor](https://github.com/Spring19GameEngines/finalproject-pb/blob/wendi/README_tile_editor.md)
 
 ## Diagram 
 ![ScreenShot_1](./Image/image_diagram.png)
