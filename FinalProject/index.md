@@ -46,11 +46,6 @@ Cons:
 Cannot interacting with the terminal and SDL directly.
 Does not cut each sprite very precisely, and it might fail in some cases.
 
-
-## Other Notes:
-You can toggle the display of fps at the top of the GameManager.h file
-And also we did not forget about the background. Like we said in the post mortem, we realized the spritesheet should have a transparent background too late. Right below the fps toggle, you can see there is a background toggle. Set it to true, you can view the background with the hideous square sprite.
-
 ### SDL Gamemaker Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu8Gnf25rqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### ScreenShots
